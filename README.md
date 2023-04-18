@@ -1,2 +1,2 @@
 # geneexpression
-Code for the paper "Computer Classification Methods for Gene Selection in Daph-nia magna Toxicogenomics"
+Code for the paper "Computer Classification Methods for Gene Selection in Daphnia magna Toxicogenomics"
